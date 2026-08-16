@@ -42,7 +42,7 @@ Where $w_i$ represents target parameter weighting, and $\hat{X}_i$ corresponds t
 
 ## 👤 Author Information
 **Sabbir Ahmed Riad**  
-B.Sc. in Textile Engineering (Major in Apparel Engineering, CGPA: 3.76/4.00)[cite: 1]  
+B.Sc. in Textile Engineering (Major in Apparel Engineering, CGPA: 3.76/4.00)[upto 6th semister]
 *Prospective Ph.D. Candidate in Materials Science, Polymer Engineering, and Environmental Science*  
 - **Email:** sabbirahmedriad.ctec@gmail.com[cite: 1]
 - **LinkedIn:** [linkedin.com/in/sabbir-ahmed-riad](https://www.linkedin.com/in/sabbir-ahmed-riad)[cite: 1]

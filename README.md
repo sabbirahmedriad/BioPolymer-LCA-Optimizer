@@ -37,6 +37,7 @@ Where $w_i$ represents target parameter weighting, and $\hat{X}_i$ corresponds t
 | **Chitosan-Starch Matrix** | 25.0 | 0.8 | **78.10** |
 | **Polyhydroxyalkanoates (PHA)** | 40.0 | 1.9 | **71.30** |
 | **Petroleum-based Polyethylene** | 30.0 | 3.1 | **24.15** |
+Microstructural Fiber Analysis:Quantified fiber morphology from SEM images using ImageJ. The calculated mean fiber diameter is $12.45 \pm 1.82\,\mu\text{m}$ ($n = 30$).
 
 ---
 

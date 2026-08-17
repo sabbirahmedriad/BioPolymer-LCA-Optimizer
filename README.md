@@ -40,7 +40,11 @@ Where $w_i$ represents target parameter weighting, and $\hat{X}_i$ corresponds t
 
 
 ---
-Microstructural Fiber Analysis:Quantified fiber morphology from SEM images using ImageJ. The calculated mean fiber diameter is $12.45 \pm 1.82\,\mu\text{m}$ ($n = 30$).
+### 🔬 Quantitative SEM Fiber Analysis
+- **Software:** ImageJ / Fiji (Scale-calibrated)
+- **Mean Fiber Diameter:** 12.45 ± 1.82 µm
+- **Sample Size:** n = 30 fibers
+- **Observation:** Uniform fiber morphology with high structural integrity.
 
 ## 👤 Author Information
 **Sabbir Ahmed Riad**  
